@@ -96,6 +96,7 @@ PRODUCT_PACKAGES += \
 	Usb \
 	su \
 	mot_boot_mode \
+	charge_only_mode
 
 # for jpeg hw encoder/decoder
 PRODUCT_PACKAGES += libskiahw libOMX.TI.JPEG.Encoder libOMX.TI.JPEG.decoder
